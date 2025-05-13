@@ -1,7 +1,7 @@
 1st
 *Write code that incements tuna by one (tuna++ - which is add after) while it is less than 5
-*int tuna = 1;
 
+int tuna = 1;
 	while (tuna < 5){
 		printf("tuna is now %d \n", tuna);
 		tuna++;
