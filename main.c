@@ -15,11 +15,3 @@ int main()
 	return 0;
 }
 
-/*int tuna = 1;
-
-	while (tuna < 5){
-		printf("tuna is now %d \n", tuna);
-		tuna++;
-	}
-
-	return 0;*/
