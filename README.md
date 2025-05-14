@@ -7,7 +7,7 @@ int tuna = 1;
 		tuna++;
 	}
 
-	return 0;*
+	
 
 2nd
 /*Write code that increments 1 sent doubling over 31 days. The adage which would you rather have
